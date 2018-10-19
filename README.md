@@ -24,3 +24,6 @@ Get them cookies.
 ## Disclaimer
 
 I'm not responsible for your actions. The code provided here is for educational purpose only. If you find a web site with code injection vulnerability, inform them.
+
+I write this script some time ago, after watching this video:
+[![Send cookies with image request](http://img.youtube.com/vi/KaEj_qZgiKY/0.jpg)](http://www.youtube.com/watch?v=KaEj_qZgiKY?t=167)
